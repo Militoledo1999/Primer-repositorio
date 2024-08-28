@@ -1,0 +1,117 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+	
+
+.menu 
+{
+    background-color: #333;
+    width: 200px;
+    height: 100vh;
+    color: #F066B6;
+}
+
+.menu ul {
+    list-style: none;
+    padding:0;
+    margin:5;
+}
+
+.menu ul li {
+    padding: 15px 20px;
+    border-bottom: 1px solid #555;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #F066B6;
+}
+
+.menu ul li:hover {
+    background-color: #555;
+}
+
+main {
+    flex: 1;
+    padding: 200x;
+	text-align: center;
+	background-color: #fff;
+	text-decoration: none;
+    color: #000000;
+	
+}
+ .producto {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 20px;
+            width: 200px;
+            display: inline-block;
+            vertical-align: top;
+        }
+        .producto img {
+            max-width: 100%;
+            height: auto;
+        }
+		
+.container {
+    display: flex;
+}
+.cartel
+{
+    background-color:#F066B6;
+    padding: 20px; 
+    margin-bottom: 20px; 
+text-align: center;
+color: #000000;
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+}
+
+.cartel h2 {
+    text-align: center;
+	background-color: #F9AAD7;
+    color: #000000; 
+	}
+
+.logo-img {
+    display: block;
+    margin: 0 auto;
+    max-width: 150px;
+    height: auto; 
+}
+.cartel h3{
+    text-align: center left-side;
+	background-color: #fff;
+    color: #000000; 
+	}
+	
+	
+	.imagen-centrada {
+    display: block; 
+    margin: 0 auto; 
+    max-width: 100%; 
+    height: auto;
+	}
+	
+	  .redes-sociales {
+        text-align: left; /* Alinea las imágenes a la izquierda */
+    }
+
+    .redes-sociales p {
+        margin-bottom: 10px; /* Añade un margen inferior a cada elemento */
+    }
+
+    .redes-sociales img {
+        vertical-align: middle; /* Alinea verticalmente la imagen con el texto */
+        margin-right: 10px; /* Espacio entre la imagen y el texto */
+        width: 30px; /* Ajusta el tamaño de la imagen según sea necesario */
+        height: auto; /* Permite que la altura se ajuste automáticamente */
+    }
+
+    .redes-sociales span {
+        vertical-align: middle; /* Alinea verticalmente el texto con la imagen */
+    }
+	
+	
+	
