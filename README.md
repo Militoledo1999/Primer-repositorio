@@ -1,18 +1,24 @@
-# Sitio web de productos de bazar y decoración : Aura regaleria y bazar
+<h1>
+    Mi sitio web
+    <img src="https://github.com/igorezequiel22/E-commerce-DesarrolloWeb/blob/main/public/images/persona-de-libre-dedicacion.png" width="60" align="center">
+</h1>
+Este es un proyecto básico para mostrar a los estudiantes los fundamentos de HTML y CSS. El sitio web incluye una estructura simple con un encabezado, contenido principal, una sección de información personal, y un pie de página, utilizando una paleta de colores celeste, blanco y negro.
 
-## Descripción General 
-El sitio web para diseñado para ofrecer una amplia gama de productos de bazar y decoración buenos, bonitos y baratos.
-El sitio cuenta con distintas sesiones donde podras descubrir los diferentes productos disponibles, nuestra historia, contacto y  redes sociales. 
+## Estructura del Proyecto 🌐
 
-## Estructura del sitio 
-### Encabezado (Header)
-El encabezado del sitio incluye:
-**Logo**  El logo representa el nombre de la marca.
-**Barra de navegación** Un menú de navegación con enlaces a las principales secciones del sitio como: *Inicio*, *Productos*, *Historia* , *Contacto*
 
-### Secciones principales 
-**Inicio**: Collage de fotos de los productos que se encuentran en el sitio.
-**Productos**:  Listado de productos disponibles.
-**Historia**:  Breve historia del empredimiento.
-**Contacto**: Contacto y redes sociales del empredimiento. 
+- INDEX.HTML: El archivo principal que contiene la estructura HTML del sitio web.
+- STYLES.CSS: El archivo CSS que define los estilos aplicados al sitio web.
+- images/`: Carpeta que contiene las imágenes del logo de la universidad, la imagen del logo principal de la materia, y una foto de ejemplo.
 
+## Cómo Usar 🤔
+
+1. Clona el repositorio en tu computadora.
+2. Abre `index.html` en vscode.
+3. Edita la sección de "Información Personal" directamente en el código para agregar tu nombre, apellido, foto 4x4, y cualquier otra información adicional, tambien en el CSS puedes editar colores, margenes tamaños, etc.
+4. Guarda los cambios y abre `index.html` con la extension live server para ver el sitio web con tu información actualizada.
+
+
+<div align="center">
+    <img src="https://www.unpaz.edu.ar/sites/default/files/unpaz_logo_2020.png" alt="UNPAZ Logo" width="200">
+</div>
