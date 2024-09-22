@@ -1,0 +1,233 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+	
+
+
+background-image: 
+linear-gradient(to right bottom, #d978af, #d97eb7, #d983bf, #d989c7, #d88fcf, #d68ed3, #d48ed7, #e178be, #cd86dd, #d2448d, #c178e3, #ba72e6);
+
+
+
+.menu {
+    background-color: #f22c9c;
+    width: 200px;
+    height: 100vh;
+    color: #070707;
+}
+
+.menu ul {
+    list-style: none;
+    padding:0;
+    margin:5;
+}
+
+.menu ul li {
+    padding: 15px 20px;
+    border-bottom: 1px solid #c4b7b7;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #f2eaef;
+}
+
+.menu ul li:hover {
+    background-color: #dfdbdb;
+}
+
+main {
+    flex: 1;
+    padding: 200x;
+	text-align: center;
+	background-color: #fff;
+	text-decoration: none;
+    color: #191819;
+	
+}
+ .producto {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 20px;
+            width: 200px;
+            display: inline-block;
+            vertical-align: top;
+
+            
+            }
+        .producto img {
+            max-width: 100%;
+            height: auto;
+
+           
+        }
+		
+        .css-button-gradient--1 {
+            min-width: 130px;
+            height: 40px;
+            color: #fff;
+            padding: 5px 10px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            display: inline-block;
+            outline: none;
+            border-radius: 5px;
+            border: none;
+            background-size: 120% auto;
+            background-image: linear-gradient(315deg, #ee27db 0%, #ae7cb1 75%);
+          }
+          .css-button-gradient--1:hover {
+            background-position: right center;
+          }
+          .css-button-gradient--1:active {
+            top: 2px;
+          }
+          
+
+
+
+.container {
+    display: flex;
+}
+.cartel
+{
+    background-color:#F066B6;
+    padding: 20px; 
+    margin-bottom: 20px; 
+text-align: center;
+color: #000000;
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+}
+
+.cartel h2 {
+    text-align: center;
+	background-color: #F9AAD7;
+    color: #000000; 
+	}
+
+.logo-img {
+    display: block;
+    margin: 0 auto;
+    max-width: 150px;
+    height: auto; 
+}
+.cartel h3{
+    text-align: center left-side;
+	background-color: #fff;
+    color: #000000; 
+	}
+	
+    form {
+
+        background-color: #f22c9c;
+    
+        padding: 20px;
+    
+        border-radius: 10px;
+    
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+        max-width: 400px;
+    
+        width: 100%; 
+    
+        margin: 20px auto; 
+    
+    }
+    
+    
+    label {
+    
+        display: block;
+    
+        margin-bottom: 8px;
+    
+        color: #555;
+    
+    }
+    
+    
+    
+    input, textarea {
+    
+        width: 90%;
+    
+        padding: 10px;
+    
+        margin-bottom: 15px;
+    
+        border: 1px solid #ccc;
+    
+        border-radius: 5px;
+    
+    }
+    
+    
+    
+    input[type="number"], input[type="text"], input[type="email"] {
+    
+        background-color: #f9f9f9;
+    
+    }
+    
+    
+    
+    button {
+    
+        width: 100%;
+    
+        padding: 10px;
+    
+        background-color: #070607;
+    
+        border: none;
+    
+        color: white;
+    
+        border-radius: 5px;
+    
+        cursor: pointer;
+    
+        font-size: 16px;
+    
+    }
+    
+    
+    
+    button:hover {
+    
+        background-color: #d653b5;
+    
+    }         
+        
+	
+	.imagen-centrada {
+    display: block; 
+    margin: 0 auto; 
+    max-width: 100%; 
+    height: auto;
+	}
+	
+	  .redes-sociales {
+        text-align: left; 
+    }
+
+    .redes-sociales p {
+        margin-bottom: 10px; 
+    }
+
+    .redes-sociales img {
+        vertical-align: middle;
+        margin-right: 10px; 
+        width: 30px; 
+        height: auto; 
+    }
+
+    .redes-sociales span {
+        vertical-align: middle; 
+
+        
